@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/P_Lvl1.2/bin/Debug/net7.0/P_Lvl1.2
+/Users/beytullah/Projects/P_Lvl1.2/bin/Debug/net7.0/P_Lvl1.2.deps.json
+/Users/beytullah/Projects/P_Lvl1.2/bin/Debug/net7.0/P_Lvl1.2.runtimeconfig.json
+/Users/beytullah/Projects/P_Lvl1.2/bin/Debug/net7.0/P_Lvl1.2.dll
+/Users/beytullah/Projects/P_Lvl1.2/bin/Debug/net7.0/P_Lvl1.2.pdb
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.AssemblyInfo.cs
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.dll
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/refint/P_Lvl1.2.dll
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.pdb
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/P_Lvl1.2.genruntimeconfig.cache
+/Users/beytullah/Projects/P_Lvl1.2/obj/Debug/net7.0/ref/P_Lvl1.2.dll
